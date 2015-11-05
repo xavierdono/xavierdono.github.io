@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "xavierdono",
-    "repositoryName": "xavierdono.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"xavierdono","repositoryName":"xavierdono.github.io","branch":"master"},"site":{"title":"DevThing","url":"https://xavierdono.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//xavierdono.github.io/themes/Casper"}}
