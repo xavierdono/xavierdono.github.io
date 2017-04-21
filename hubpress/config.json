@@ -2,14 +2,32 @@
   "meta": {
     "username": "xavierdono",
     "repositoryName": "xavierdono.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "site": {
     "title": "DevThing",
-    "disqus": "XavieR",
-    "url": "https://xavierdono.github.io"
+    "disqus": "",
+    "url": "https://xavierdono.github.io",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "10",
+    "googleAnalytics": ""
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
+  },
   "theme": {
     "name": "casper",
     "url": "//xavierdono.github.io/themes/Casper"
