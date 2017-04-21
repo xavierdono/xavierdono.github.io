@@ -1,1 +1,33 @@
-{"meta":{"username":"xavierdono","repositoryName":"xavierdono.github.io","branch":"master"},"site":{"title":"DevThing","disqus":"XavieR","url":"https://xavierdono.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//xavierdono.github.io/themes/Casper"}}
+{
+  "meta": {
+    "username": "xavierdono",
+    "repositoryName": "xavierdono.github.io",
+    "branch": "master"
+  },
+  "site": {
+    "title": "DevThing",
+    "disqus": "XavieR",
+    "url": "https://xavierdono.github.io"
+  },
+  "socialnetwork": {},
+  "theme": {
+    "name": "casper",
+    "url": "//xavierdono.github.io/themes/Casper"
+  },
+  "urls": {
+    "site": "https://xavierdono.github.io",
+    "hubpress": "http://xavierdono.github.io",
+    "theme": "//xavierdono.github.io/themes/casper",
+    "images": "https://xavierdono.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
+  }
+}
